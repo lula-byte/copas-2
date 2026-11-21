@@ -1,0 +1,6 @@
+{
+  "name": "Latihan Laptop SMP",
+  "description": "Media latihan keterampilan dasar laptop untuk siswa SMP dengan papan ketik 3D isometrik interaktif dan pengolah dokumen kurikulum otomatis berbasis AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
